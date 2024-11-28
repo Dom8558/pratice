@@ -7,4 +7,4 @@ my_list.append(30)
 
 # Print the updated list
 print("Updated list:", my_list)
-print("h
+print("hii")
